@@ -1,0 +1,9 @@
+C:\Users\anita.pal\Documents\Calculator\Calculator_SUT\Calculator_SUT\bin\Debug\netcoreapp3.1\CalculatorSUT.deps.json
+C:\Users\anita.pal\Documents\Calculator\Calculator_SUT\Calculator_SUT\bin\Debug\netcoreapp3.1\CalculatorSUT.dll
+C:\Users\anita.pal\Documents\Calculator\Calculator_SUT\Calculator_SUT\bin\Debug\netcoreapp3.1\CalculatorSUT.pdb
+C:\Users\anita.pal\Documents\Calculator\Calculator_SUT\Calculator_SUT\obj\Debug\netcoreapp3.1\CalculatorSUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita.pal\Documents\Calculator\Calculator_SUT\Calculator_SUT\obj\Debug\netcoreapp3.1\CalculatorSUT.AssemblyInfoInputs.cache
+C:\Users\anita.pal\Documents\Calculator\Calculator_SUT\Calculator_SUT\obj\Debug\netcoreapp3.1\CalculatorSUT.AssemblyInfo.cs
+C:\Users\anita.pal\Documents\Calculator\Calculator_SUT\Calculator_SUT\obj\Debug\netcoreapp3.1\CalculatorSUT.csproj.CoreCompileInputs.cache
+C:\Users\anita.pal\Documents\Calculator\Calculator_SUT\Calculator_SUT\obj\Debug\netcoreapp3.1\CalculatorSUT.dll
+C:\Users\anita.pal\Documents\Calculator\Calculator_SUT\Calculator_SUT\obj\Debug\netcoreapp3.1\CalculatorSUT.pdb
